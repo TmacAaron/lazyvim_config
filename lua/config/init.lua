@@ -1,4 +1,5 @@
 require('config.lazy')
 require('config.UI')
+-- require('config.options')
 -- require('config.keymaps')
 -- require('config.autocmds')
